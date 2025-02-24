@@ -17,3 +17,5 @@ nltk
 numba
 ffmpeg
 sympy
+pocketsphinx
+googletrans==4.0.0-rc1
