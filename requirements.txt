@@ -19,3 +19,7 @@ ffmpeg
 sympy
 pocketsphinx
 googletrans==4.0.0-rc1
+selenium
+pyaudio
+pipwin
+pyttsx3
